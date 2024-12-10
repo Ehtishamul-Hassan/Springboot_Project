@@ -259,3 +259,17 @@
 2024-12-10 10:03:06,691 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-12-10 10:03:06,697 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\asifh\OneDrive\Documents\SpringSecurity\Spring-13-NoteApplication\src\test\resources
 2024-12-10 10:07:27,114 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-10 10:18:01,885 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java:Spring-10-PortfolioApplication:0.0.1-SNAPSHOT @ C:\Users\asifh\OneDrive\Documents\SprnigBootProjects\Spring-13-NoteApplication\pom.xml.
+2024-12-10 10:18:03,069 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 10:18:03,103 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 10:18:03,108 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\asifh\OneDrive\Documents\SprnigBootProjects\Spring-13-NoteApplication\src\test\resources
+2024-12-10 10:18:04,604 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 10:18:04,606 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 10:18:04,609 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\asifh\OneDrive\Documents\SprnigBootProjects\Spring-13-NoteApplication\src\test\resources
+2024-12-10 10:18:37,351 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java:Spring-10-PortfolioApplication:0.0.1-SNAPSHOT @ C:\Users\asifh\OneDrive\Documents\SprnigBootProjects\Spring-13-SecurityApplication\pom.xml.
+2024-12-10 10:18:37,956 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 10:18:37,981 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 10:18:37,985 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\asifh\OneDrive\Documents\SprnigBootProjects\Spring-13-SecurityApplication\src\test\resources
+2024-12-10 10:18:39,376 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 10:18:39,378 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-10 10:18:39,381 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\asifh\OneDrive\Documents\SprnigBootProjects\Spring-13-SecurityApplication\src\test\resources
