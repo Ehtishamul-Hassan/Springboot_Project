@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.springframework.mail.javamail.MimeMessageHelper"><rhs name\="org.springframework.mail.javamail.MimeMessageHelper"/></lhs><lhs name\="org.springframework.core.io.WritableResource"><rhs name\="org.springframework.core.io.FileSystemResource"/></lhs><lhs name\="org.springframework.core.io.Resource"><rhs name\="org.springframework.core.io.FileSystemResource"/></lhs><lhs name\="org.springframework.core.io.InputStreamSource"><rhs name\="org.springframework.core.io.FileSystemResource"/></lhs><lhs name\="org.springframework.core.io.AbstractResource"><rhs name\="org.springframework.core.io.FileSystemResource"/></lhs><lhs name\="org.springframework.core.io.FileSystemResource"><rhs name\="org.springframework.core.io.FileSystemResource"/></lhs><lhs name\="java.io.File"><rhs name\="java.io.File"/></lhs><lhs name\="java.nio.file.CopyOption"><rhs name\="java.nio.file.StandardCopyOption"/></lhs><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.HttpStatusCode"><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="org.springframework.http.HttpStatus"/></lhs></history>
+content_assist_number_of_computers=14
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
