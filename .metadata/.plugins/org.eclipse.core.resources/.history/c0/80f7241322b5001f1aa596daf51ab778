@@ -1,5 +1,0 @@
-package com.java.entities;
-
-public class EmailRequest {
-
-}

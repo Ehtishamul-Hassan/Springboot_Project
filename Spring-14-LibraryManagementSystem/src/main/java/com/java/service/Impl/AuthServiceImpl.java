@@ -24,6 +24,7 @@ import com.java.dtos.RegisterRequest;
 import com.java.dtos.VerificationRequest;
 import com.java.email.EmailService;
 import com.java.email.EmailTemplateName;
+import com.java.enums.Role;
 import com.java.model.User;
 import com.java.repository.TokenRepository;
 import com.java.repository.UserRepository;

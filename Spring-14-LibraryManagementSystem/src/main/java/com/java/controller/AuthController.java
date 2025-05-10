@@ -2,6 +2,7 @@ package com.java.controller;
 
 import java.io.IOException;
 
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -47,7 +48,15 @@ public class AuthController {
 			return ResponseEntity.ok(response);
 		}
 		
-	    return ResponseEntity.accepted().build();
+//	    return ResponseEntity.accepted().build();
+		return ResponseEntity.status(HttpStatus.CREATED).body(
+		        AuthResponse.builder()
+		            .accessToken(response.getAccessToken())
+		            .refreshToken(response.getRefreshToken())
+		      
+		            .message("Registration successful")
+		            .build()
+		    );
 	  }
 	
 //	login

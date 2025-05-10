@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.java.dtos.RegisterRequest;
 import com.java.dtos.UserDto;
+import com.java.enums.Role;
 import com.java.exception.UserNotFoundException;
 import com.java.model.User;
 import com.java.repository.UserRepository;

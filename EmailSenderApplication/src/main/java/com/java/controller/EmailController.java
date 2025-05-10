@@ -19,7 +19,8 @@ import com.java.entities.EmailResponse;
 import com.java.service.IEmailService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "http://localhost:3000")
+
 @RequestMapping("/api/email")
 public class EmailController {
 	

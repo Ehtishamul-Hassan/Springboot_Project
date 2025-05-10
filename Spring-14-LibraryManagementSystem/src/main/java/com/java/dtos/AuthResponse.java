@@ -27,5 +27,7 @@ public class AuthResponse {
 	private boolean mfaEnabled;
 	
 	private String secretImageUri;
+	
+	private String message;
 
 }
