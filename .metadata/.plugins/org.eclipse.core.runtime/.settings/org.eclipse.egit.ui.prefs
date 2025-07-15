@@ -1,3 +1,7 @@
 RepositorySearchDialogSearchPath=C\:\\Users\\asifh\\git
 eclipse.preferences.version=1
 repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
+resourcehistory_compare_mode=false
+resourcehistory_graph_split=500,500
+resourcehistory_last_selected_ref_filters_.git=HEAD\:refs/heads/**\:refs/remotes/**\:refs/tags/**
+resourcehistory_rev_split=700,300
